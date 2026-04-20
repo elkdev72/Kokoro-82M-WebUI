@@ -4,7 +4,7 @@
 
 Alternative ways to use Kokoro-TTS [kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx), [Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI), [kokoro](https://github.com/hexgrad/kokoro), [kokoro-web](https://huggingface.co/spaces/webml-community/kokoro-web), [Kokoro-Custom-Voice](https://huggingface.co/spaces/ysharma/Make_Custom_Voices_With_KokoroTTS)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NeuralFalconYT/Kokoro-82M-WebUI/blob/main/Kokoro_82M_Colab.ipynb) <br>
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/elkdev72/Kokoro-82M-WebUI/blob/main/Kokoro_82M_Colab.ipynb) <br>
 [![HuggingFace Space Demo](https://img.shields.io/badge/🤗-Space%20demo-yellow)](https://huggingface.co/spaces/NeuralFalcon/Kokoro-TTS)
 
 
